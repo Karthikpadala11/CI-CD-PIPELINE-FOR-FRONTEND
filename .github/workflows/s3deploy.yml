@@ -7,7 +7,7 @@ on:
 
 env:
   AWS_REGION: ap-south-1
-  S3_BUCKET: your-bucket-name   # change this
+  S3_BUCKET: frontend-files-bucket  
 
 jobs:
   deploy:
